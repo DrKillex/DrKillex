@@ -13,7 +13,8 @@ Sono un full-stack developer competente in vari linguaggi e frameworks e con la 
 | ---------------------------------------------------------- | ---------- |
 | DRY, SOLID principles.                                     | Typescript |
 | MVC & OOP patterns                                         | Java       |
-| Git w/ Gitflow                                             |
-| PHP w/ Laravel                                             |
+| Git w/ Gitflow                                             | HTML       |
+| PHP w/ Laravel                                             | SCSS       |
 | Javascript w/ VueJS                                        |
 | SQL w/ MySQL                                               |
+| CSS w/bootstrap                                            |
